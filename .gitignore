@@ -1,9 +1,5 @@
 # Ignore Visual Studio temporary files, build results, and VS user-specific files
 
-# Ignore C language files
-*.c
-*.h
-
 # User-specific files
 *.rsuser
 *.suo
