@@ -1,7 +1,7 @@
-# 📘 C++ Learning & Applications
+# 📘 C++ Learning Projects & Applications
 
   A collection of C++ solutions and projects built during my journey of mastering the basics of C++, core programming principles, and computer science fundamentals. <br>
-  Each folder highlights a key concept such as OOP, data structures, File Handling, Pointers, Vectors and more through applied, problem-solving implementations and interactive examples.
+  It covers everything from the fundamentals to advanced topics, demonstrating problem-solving and hands-on implementations through real examples.
 
 ---
 ## 🧠 What I Learned & Applied
