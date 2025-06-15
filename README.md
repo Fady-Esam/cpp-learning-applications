@@ -4,6 +4,7 @@
   It covers everything from the fundamentals to advanced topics, demonstrating problem-solving and hands-on implementations through real examples.
 
 ---
+
 ## 🧠 What I Learned & Applied
 
 - 📌 **Basics**  
@@ -13,19 +14,19 @@
   → Classes, Structs, Inheritance, Polymorphism, Encapsulation, Constructors/Destructors
 
 - 🧩 **Data Structures**  
-  → Arrays, Linked Lists, Stacks, Queues, Trees (basics), and their implementations from scratch
+  → Arrays, Linked Lists, Stacks, Queues, and their implementations from scratch
 
 - 💡 **Pointers & Memory Management**  
   → Pointer basics, pointer arithmetic, pointer to array, dynamic memory
 
-- 📂 **Vectors (STL)**  
+- 📂 **Vectors**  
   → Dynamic arrays, common vector operations, iterations
 
 - 📁 **File Handling**  
   → Reading from and writing to text files using `fstream`, processing line-by-line input/output
 
 - 💻 **Problem Solving Practice**  
-  → Projects, exercises, and algorithmic problems focused on logic and real-world scenarios
+  → Projects, exercises, and algorithmic problems focused on logic
 
 ---
 
