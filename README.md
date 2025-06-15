@@ -1,10 +1,13 @@
 # 📘 C++ Learning & Applications
 
   A collection of C++ solutions and projects built during my journey of mastering the basics of C++, core programming principles, and computer science fundamentals. <br>
-  Each folder highlights a key concept such as OOP, data structures, File Handling, Pointers, Vectors, Arrays and more through applied, problem-solving implementations and interactive examples.
+  Each folder highlights a key concept such as OOP, data structures, File Handling, Pointers, Vectors and more through applied, problem-solving implementations and interactive examples.
 
 ---
 ## 🧠 What I Learned & Applied
+
+- 📌 **Basics**  
+→ Variables, Data Types, Operators, Input/Output, Conditionals, Loops, Functions, Arrays, and Strings
 
 - 🎯 **Object-Oriented Programming (OOP)**  
   → Classes, Structs, Inheritance, Polymorphism, Encapsulation, Constructors/Destructors
