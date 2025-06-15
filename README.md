@@ -11,7 +11,7 @@
 → Variables, Data Types, Operators, Input/Output, Conditionals, Loops, Functions, Arrays, and Strings
 
 - 🎯 **Object-Oriented Programming (OOP)**  
-  → Classes, Structs, Inheritance, Polymorphism, Encapsulation, Constructors/Destructors
+  → Classes, Structs, Inheritance, Polymorphism, Encapsulation, Abstraction, Constructors/Destructors
 
 - 🧩 **Data Structures**  
   → Arrays, Linked Lists, Stacks, Queues, and their implementations from scratch
