@@ -32,7 +32,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="left"> 
-        <img src="https://skillicons.dev/icons?i=cpp,visualstudio,git,github" alt="Tech stack icons" />
+        <img src="https://skillicons.dev/icons?i=cpp,vscode,visualstudio,git,github" alt="Tech stack icons" />
 </p>
 
 ---
