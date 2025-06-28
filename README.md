@@ -1,7 +1,7 @@
 # 📘 C++ Practical Projects & Applications
 
-  A collection of C++ solutions and projects built during my journey of mastering the basics of C++, core programming principles, and computer science fundamentals.  
-  It covers everything from the fundamentals to advanced topics, demonstrating problem-solving and hands-on implementations through real examples.
+  A collection of **C++** solutions and projects built during my journey of learning and applying **Core Programming Principles** and computer science **Fundamentals**.  
+  It covers everything from the fundamentals to advanced topics, demonstrating **Problem-Solving** and hands-on implementations through real examples.
 
 ---
 
